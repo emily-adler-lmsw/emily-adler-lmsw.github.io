@@ -5,7 +5,6 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "prod": "ng build --output-path docs --base-href /emily-adler-lmsw/",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
